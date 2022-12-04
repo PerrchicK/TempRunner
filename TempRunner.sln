@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Hypercasual", "Unity.Hypercasual.csproj", "{1cbe04c2-afed-8fab-1ac6-f76f88ef8542}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Hypercasual.Tutorials.Editor", "Unity.Hypercasual.Tutorials.Editor.csproj", "{942f421b-3d59-3511-6779-d978a0482fd0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Hypercasual.Editor", "Unity.Hypercasual.Editor.csproj", "{a1807db9-166d-9777-7f6a-93e85935d910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Hypercasual.CustomEditors", "Unity.Hypercasual.CustomEditors.csproj", "{771b0cfd-ef46-9033-472e-88e0fa5954d8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1cbe04c2-afed-8fab-1ac6-f76f88ef8542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1cbe04c2-afed-8fab-1ac6-f76f88ef8542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942f421b-3d59-3511-6779-d978a0482fd0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942f421b-3d59-3511-6779-d978a0482fd0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a1807db9-166d-9777-7f6a-93e85935d910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a1807db9-166d-9777-7f6a-93e85935d910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771b0cfd-ef46-9033-472e-88e0fa5954d8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771b0cfd-ef46-9033-472e-88e0fa5954d8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
